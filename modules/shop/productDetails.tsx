@@ -14,7 +14,6 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import ShopNavbar from './component/header-footer/shopNavbar';
 import ShopFooter from './component/header-footer/shopFooter';
 
-
 const otherProducts: ProductCardProps[] = [
   {
     image: '/assets/products-banner/Image-1.png',
@@ -256,8 +255,8 @@ export default function ProductDetails() {
               Empower your educational endeavors with our Webinar and Course Template. Craft immersive online learning
               experiences that captivate audiences. Seamlessly integrate multimedia elements, quizzes, and discussions
               to enrich the learning journey. Tailor the template to your brand with customizable design options. Track
-              learner progress, foster collaboration, and gain insights through built-in analytics. Whether you're an
-              educator or a business, this template streamlines course creation, webinar hosting, and community
+              learner progress, foster collaboration, and gain insights through built-in analytics. Whether you&lsquo;re
+              an educator or a business, this template streamlines course creation, webinar hosting, and community
               building. Elevate your online education with a user-friendly, responsive, and feature-rich solution that
               engages and enlightens learners.
             </p>
