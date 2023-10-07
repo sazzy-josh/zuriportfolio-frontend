@@ -18,7 +18,6 @@ function ZuriCodeBlock({
 }) {
   return <CodeBlock text={code} language={language} showLineNumbers={showLineNumbers} theme={a11yDark} />;
 }
-
 const codes = [
   {
     variant: 'primary',
